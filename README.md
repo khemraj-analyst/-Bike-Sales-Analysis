@@ -53,6 +53,7 @@ The interactive dashboard presents customer purchasing patterns through five vis
 ## 👨‍💻 Author
 
 **Khemraj**
+LinkedIn: [Connect with me](https://www.linkedin.com/in/khema-ram-7a84733a7/)
 
 Aspiring Data Analyst
 
