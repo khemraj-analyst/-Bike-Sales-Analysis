@@ -39,6 +39,9 @@ This project analyzes bike sales customer data using Microsoft Excel. The object
 
 The interactive dashboard presents customer purchasing patterns through five visualizations.
 
+## 📸 Dashboard Preview
+![Bike Sales Dashboard](Bike_Sales_Dashboard.png)
+
 ## 🎯 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
